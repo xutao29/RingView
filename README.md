@@ -1,6 +1,5 @@
 # RingView
-
-带阴影效果图
+![image](https://github.com/taoyixun/RingView/blob/master/img-folder/20160829135501.png?raw=true)
 ```java
     <com.taoyixun.ringviewlib.RingView
         android:layout_width="300dp"
