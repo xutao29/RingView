@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\soft\RingView\app\build\intermediates\exploded-aar\RingView\mylibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="53489e3233d5db801391899e3b0878fd425b5a44">
+        <dex dex="D:\soft\RingView\app\build\intermediates\pre-dexed\debug\classes-570bac0fa530a19c331ace4e60790b5cf9952f72.jar" />
+    </item>
+
+</items>

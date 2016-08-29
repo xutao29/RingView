@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.taoyixun.ringview.Main2Activity">
+
+    <com.taoyixun.ringviewlib.RingView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        app:ringView_background_color="@android:color/white"
+        app:ringView_ring_end_color="@color/colorAccent"
+        app:ringView_ring_margin="0dp"
+        app:ringView_ring_max="100"
+        app:ringView_ring_progress="80"
+        app:ringView_ring_progress_unit="%"
+        app:ringView_ring_start_color="@color/colorPrimary"
+        app:ringView_ring_width="40dp"
+        app:ringView_shadow_color="#cccccc"
+        app:ringView_shadow_width="0dp"
+        app:ringView_text="Progress："
+        app:ringView_text_auto_color="true"
+        app:ringView_text_color="@color/colorAccent"
+        app:ringView_text_margin="10dp"
+        app:ringView_text_size="18sp" />
+
+</RelativeLayout>

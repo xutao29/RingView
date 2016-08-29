@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RingView">
+        <attr name="ringView_shadow_width" format="dimension" />
+        <attr name="ringView_shadow_color" format="color" />
+        <attr name="ringView_ring_margin" format="dimension" />
+        <attr name="ringView_ring_width" format="dimension" />
+        <attr name="ringView_ring_start_color" format="color" />
+        <attr name="ringView_ring_end_color" format="color" />
+        <attr name="ringView_ring_progress" format="integer" />
+        <attr name="ringView_ring_progress_unit" format="string|reference" />
+        <attr name="ringView_ring_max" format="integer" />
+        <attr name="ringView_background_color" format="color" />
+        <attr name="ringView_text_color" format="color" />
+        <attr name="ringView_text" format="string|reference" />
+        <attr name="ringView_text_size" format="dimension" />
+        <attr name="ringView_text_margin" format="dimension" />
+        <attr name="ringView_text_auto_color" format="boolean" />
+    </declare-styleable>
+</resources>
